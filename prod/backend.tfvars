@@ -1,3 +1,3 @@
 region = "us-east-1"
-bucket = "devops4solutions-terraform"
+bucket = "terraform-backend04"
 key    = "ecs/prod/terraform.tfstate"
